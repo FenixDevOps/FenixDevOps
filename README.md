@@ -1,84 +1,127 @@
-# 👋 Hi, I'm Manikanta
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Manikanta%20%7C%20AI%20Engineer&fontSize=40&fontColor=ffffff"/>
+</p>
 
-🚀 Aspiring AI & Machine Learning Engineer
-💻 Computer Science Student passionate about building real-world AI products
-📊 Interested in Data Science, Machine Learning, and Full Stack Development
+<h1 align="center">Hi 👋, I'm Manikanta</h1>
 
----
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=AI+%26+Machine+Learning+Engineer;Python+Developer;Building+Real+World+AI+Projects;Data+Science+%7C+ML+%7C+Full+Stack+Developer"/>
+</p>
 
-## 🔥 About Me
-
-* 🎓 Computer Science Student
-* 🤖 Building AI & Machine Learning projects
-* 📊 Interested in Data Analytics & Predictive Modeling
-* 🌱 Currently learning **Advanced Machine Learning & System Design**
-* ⚡ Goal: Become an **AI Engineer working on real-world products**
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=FenixDevOps&label=Profile%20Views&color=0e75b6&style=flat"/>
+</p>
 
 ---
 
-## 🛠 Tech Stack
+# 🚀 About Me
 
-**Languages**
-
-Python • JavaScript • SQL
-
-**Frameworks & Libraries**
-
-Streamlit • Flask • React • Node.js • Scikit-learn • Pandas • NumPy
-
-**Tools & Platforms**
-
-Git • GitHub • Docker • VS Code • Linux
+🎓 Computer Science Student passionate about **Artificial Intelligence & Data Science**
+🤖 Building **AI powered applications and ML systems**
+📊 Interested in **Predictive Analytics, Machine Learning, and Intelligent Systems**
+🌱 Currently learning **Advanced Machine Learning & System Design**
+⚡ Goal: Become a **professional AI Engineer**
 
 ---
 
-## 🚀 Featured Projects
+# 🛠 Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,js,react,nodejs,flask,git,github,docker,linux,vscode,mysql,pandas,numpy,matplotlib"/>
+</p>
+
+---
+
+# 🚀 Featured Projects
 
 ### 🤖 AI Resume Analyzer
 
-AI-powered resume analysis platform that evaluates resumes and predicts ATS compatibility using NLP.
-
-Tech: Python, Streamlit, NLP, SQLite
-
----
+AI-powered platform that analyzes resumes and predicts ATS compatibility using NLP.
 
 ### 📊 Student Performance Prediction
 
-Machine learning model that predicts student exam performance using historical academic data.
-
-Tech: Python, Scikit-learn, Pandas
-
----
+Machine learning system predicting student academic performance using ML algorithms.
 
 ### 🏏 AI IPL Analytics Platform
 
-Advanced analytics platform that predicts IPL match outcomes and win probabilities using machine learning models.
+Advanced analytics platform predicting IPL match outcomes and win probabilities.
 
-Tech: Python, ML Models, Data Analytics
+### 🩺 Health Care AI Chatbot
 
----
-
-### 🩺 Health Care Chatbot
-
-AI chatbot designed to assist users with basic health-related queries and symptom guidance.
-
-Tech: Python, NLP, Machine Learning
+AI chatbot designed for health-related queries using NLP.
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=FenixDevOps&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FenixDevOps&layout=compact&theme=tokyonight"/>
+
+</p>
 
 ---
 
-## 🔥 GitHub Streak
+# 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=FenixDevOps&theme=tokyonight"/>
+</p>
 
 ---
 
-## 📫 Connect With Me
+# 📈 Coding Activity Graph
 
-📧 Email: [your-email@gmail.com](mailto:your-email@gmail.com)
-💼 LinkedIn: https://linkedin.com/in/your-profile
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=FenixDevOps&theme=tokyo-night"/>
+</p>
 
 ---
 
-⭐ *Building AI tools that solve real-world problems.*
+# 🏆 GitHub Achievements
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=FenixDevOps&theme=tokyonight"/>
+</p>
+
+---
+
+# 🧠 Currently Learning
+
+• Machine Learning Engineering
+• AI Product Development
+• Data Engineering
+• Scalable System Design
+
+---
+
+# 💻 LeetCode Stats
+
+<p align="center">
+<img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=baloo"/>
+</p>
+
+---
+
+# 📫 Connect With Me
+
+📧 Email: [manigoud8885@gmail.com](mailto:manigoud8885@gmail.com)
+
+💼 LinkedIn
+https://linkedin.com/in/bathini-manikanta
+
+---
+
+# 🐍 Contribution Snake
+
+![snake gif](https://github.com/FenixDevOps/FenixDevOps/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+⭐ **Building intelligent AI systems that solve real-world problems**
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer"/>
+</p>
