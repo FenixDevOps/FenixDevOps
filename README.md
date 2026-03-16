@@ -1,33 +1,37 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Manikanta%20%7C%20AI%20Engineer&fontSize=40&fontColor=ffffff"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a2a6c,50:b21f1f,100:fdbb2d&height=220&section=header&text=Manikanta%20%7C%20AI%20Engineer&fontSize=45&fontColor=ffffff"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Manikanta</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=AI+%26+Machine+Learning+Engineer;Python+Developer;Building+Real+World+AI+Projects;Data+Science+%7C+ML+%7C+Full+Stack+Developer"/>
+<img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=00F7FF&center=true&vCenter=true&width=750&lines=AI+%26+Machine+Learning+Engineer;Python+Developer;Building+Intelligent+Systems;Data+Science+%7C+ML+%7C+AI+Engineering"/>
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=FenixDevOps&label=Profile%20Views&color=0e75b6&style=flat"/>
+<img src="https://komarev.com/ghpvc/?username=FenixDevOps&label=Profile%20Views&color=blue&style=flat"/>
 </p>
 
 ---
 
 # 🚀 About Me
 
-🎓 Computer Science Student passionate about **Artificial Intelligence & Data Science**
-🤖 Building **AI-powered applications and Machine Learning systems**
-📊 Interested in **Predictive Analytics, Machine Learning, and Intelligent Systems**
-🌱 Currently learning **Advanced Machine Learning & System Design**
-⚡ Goal: Become a **Professional AI Engineer**
+🎓 Computer Science Student passionate about **Artificial Intelligence and Machine Learning**
+
+🤖 Building **AI-powered applications, analytics systems, and ML models**
+
+📊 Interested in **Predictive Modeling, Data Science, and Intelligent Systems**
+
+⚡ Goal: Become a **Professional AI / Machine Learning Engineer**
 
 ---
 
-# 🛠 Tech Stack
+# 🧠 AI & Development Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,js,react,nodejs,flask,git,github,docker,linux,vscode,mysql,pandas,numpy,matplotlib,scikitlearn"/>
+
+<img src="https://skillicons.dev/icons?i=python,js,react,nodejs,flask,git,github,docker,linux,vscode,mysql,pandas,numpy,matplotlib,scikitlearn,tensorflow"/>
+
 </p>
 
 ---
@@ -36,25 +40,21 @@
 
 <p align="center">
 
-<a href="https://github.com/FenixDevOps">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=FenixDevOps&repo=Smart_AI_Resume_Analyzer&theme=tokyonight"/>
-</a>
 
-<a href="https://github.com/FenixDevOps">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=FenixDevOps&repo=Student_Performance_Prediction&theme=tokyonight"/>
-</a>
 
-<a href="https://github.com/FenixDevOps">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=FenixDevOps&repo=Play_Sync&theme=tokyonight"/>
-</a>
 
 
 
 </p>
 
+Replace **REPO1 / REPO2 / REPO3 / REPO4** with your real project repositories.
 
+---
 
-# 📊 GitHub Stats
+# 📊 GitHub Analytics Dashboard
 
 <p align="center">
 
@@ -66,10 +66,12 @@
 
 ---
 
-# 🔥 GitHub Streak
+# 🔥 GitHub Contribution Streak
 
 <p align="center">
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=FenixDevOps&theme=tokyonight"/>
+
 </p>
 
 ---
@@ -77,7 +79,9 @@
 # 📈 Coding Activity Graph
 
 <p align="center">
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=FenixDevOps&theme=tokyo-night"/>
+
 </p>
 
 ---
@@ -85,35 +89,29 @@
 # 🏆 GitHub Achievements
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=FenixDevOps&theme=tokyonight&row=1&column=6"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=FenixDevOps&theme=tokyonight"/>
+
 </p>
 
 ---
 
-# 📊 GitHub Profile Summary
+# 📊 Developer Metrics
 
 <p align="center">
+
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FenixDevOps&theme=tokyonight"/>
-</p>
 
-<p align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FenixDevOps&theme=tokyonight"/>
+
 </p>
-
----
-
-# 🧠 Currently Learning
-
-• Machine Learning Engineering
-• AI Product Development
-• Data Engineering
-• Scalable System Design
 
 ---
 
 # 📫 Connect With Me
 
-📧 Email: **[manigoud8885@gmail.com](mailto:manigoud8885@gmail.com)**
+📧 Email
+[manigoud8885@gmail.com](mailto:manigoud8885@gmail.com)
 
 💼 LinkedIn
 https://linkedin.com/in/bathini-manikanta
@@ -129,5 +127,5 @@ https://linkedin.com/in/bathini-manikanta
 ⭐ **Building intelligent AI systems that solve real-world problems**
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a2a6c,50:b21f1f,100:fdbb2d&height=120&section=footer"/>
 </p>
