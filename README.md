@@ -48,15 +48,11 @@
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=FenixDevOps&repo=Play_Sync&theme=tokyonight"/>
 </a>
 
-<a href="https://github.com/FenixDevOps">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=FenixDevOps&repo=REPOSITORY_NAME&theme=tokyonight"/>
-</a>
+
 
 </p>
 
-⚠ Replace **REPOSITORY_NAME** with your actual project repository names.
 
----
 
 # 📊 GitHub Stats
 
