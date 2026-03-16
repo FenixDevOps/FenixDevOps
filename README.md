@@ -48,9 +48,7 @@
 
 
 
-</p>
 
-Replace **REPO1 / REPO2 / REPO3 / REPO4** with your real project repositories.
 
 ---
 
