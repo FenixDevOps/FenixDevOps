@@ -1,16 +1,84 @@
-## Hi there 👋
+# 👋 Hi, I'm Manikanta
 
-<!--
-**FenixDevOps/FenixDevOps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Aspiring AI & Machine Learning Engineer
+💻 Computer Science Student passionate about building real-world AI products
+📊 Interested in Data Science, Machine Learning, and Full Stack Development
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 About Me
+
+* 🎓 Computer Science Student
+* 🤖 Building AI & Machine Learning projects
+* 📊 Interested in Data Analytics & Predictive Modeling
+* 🌱 Currently learning **Advanced Machine Learning & System Design**
+* ⚡ Goal: Become an **AI Engineer working on real-world products**
+
+---
+
+## 🛠 Tech Stack
+
+**Languages**
+
+Python • JavaScript • SQL
+
+**Frameworks & Libraries**
+
+Streamlit • Flask • React • Node.js • Scikit-learn • Pandas • NumPy
+
+**Tools & Platforms**
+
+Git • GitHub • Docker • VS Code • Linux
+
+---
+
+## 🚀 Featured Projects
+
+### 🤖 AI Resume Analyzer
+
+AI-powered resume analysis platform that evaluates resumes and predicts ATS compatibility using NLP.
+
+Tech: Python, Streamlit, NLP, SQLite
+
+---
+
+### 📊 Student Performance Prediction
+
+Machine learning model that predicts student exam performance using historical academic data.
+
+Tech: Python, Scikit-learn, Pandas
+
+---
+
+### 🏏 AI IPL Analytics Platform
+
+Advanced analytics platform that predicts IPL match outcomes and win probabilities using machine learning models.
+
+Tech: Python, ML Models, Data Analytics
+
+---
+
+### 🩺 Health Care Chatbot
+
+AI chatbot designed to assist users with basic health-related queries and symptom guidance.
+
+Tech: Python, NLP, Machine Learning
+
+---
+
+## 📊 GitHub Stats
+
+---
+
+## 🔥 GitHub Streak
+
+---
+
+## 📫 Connect With Me
+
+📧 Email: [your-email@gmail.com](mailto:your-email@gmail.com)
+💼 LinkedIn: https://linkedin.com/in/your-profile
+
+---
+
+⭐ *Building AI tools that solve real-world problems.*
