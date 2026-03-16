@@ -45,7 +45,7 @@
 </a>
 
 <a href="https://github.com/FenixDevOps">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=FenixDevOps&repo=REPOSITORY_NAME&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=FenixDevOps&repo=Play_Sync&theme=tokyonight"/>
 </a>
 
 <a href="https://github.com/FenixDevOps">
