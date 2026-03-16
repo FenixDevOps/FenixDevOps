@@ -27,7 +27,7 @@
 # 🛠 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,js,react,nodejs,flask,git,github,docker,linux,vscode,mysql,pandas,numpy,matplotlib"/>
+<img src="https://skillicons.dev/icons?i=python,js,react,nodejs,flask,git,github,docker,streamlit,vscode,mysql,pandas,numpy,matplotlib"/>
 </p>
 
 ---
@@ -100,7 +100,7 @@ AI chatbot designed for health-related queries using NLP.
 # 💻 LeetCode Stats
 
 <p align="center">
-<img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=baloo"/>
+<img src="https://leetcard.jacoblin.cool/mani_goud_8885?theme=dark&font=baloo"/>
 </p>
 
 ---
