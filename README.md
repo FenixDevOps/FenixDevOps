@@ -17,7 +17,7 @@
 # 🚀 About Me
 
 🎓 Computer Science Student passionate about **Artificial Intelligence & Data Science**
-🤖 Building **AI powered applications and Machine Learning systems**
+🤖 Building **AI-powered applications and Machine Learning systems**
 📊 Interested in **Predictive Analytics, Machine Learning, and Intelligent Systems**
 🌱 Currently learning **Advanced Machine Learning & System Design**
 ⚡ Goal: Become a **Professional AI Engineer**
@@ -27,32 +27,34 @@
 # 🛠 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,js,react,nodejs,flask,git,github,docker,linux,vscode,mysql,pandas,numpy,matplotlib"/>
+<img src="https://skillicons.dev/icons?i=python,js,react,nodejs,flask,git,github,docker,linux,vscode,mysql,pandas,numpy,matplotlib,scikitlearn"/>
 </p>
 
 ---
 
-# 🚀 AI Project Showcase
+# 🚀 Featured AI Projects
 
 <p align="center">
 
-<a href="https://github.com/FenixDevOps/AI-Resume-Analyzer">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=FenixDevOps&repo=AI-Resume-Analyzer&theme=tokyonight"/>
+<a href="https://github.com/FenixDevOps">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=FenixDevOps&repo=REPOSITORY_NAME&theme=tokyonight"/>
 </a>
 
-<a href="https://github.com/FenixDevOps/student-performance-prediction">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=FenixDevOps&repo=student-performance-prediction&theme=tokyonight"/>
+<a href="https://github.com/FenixDevOps">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=FenixDevOps&repo=REPOSITORY_NAME&theme=tokyonight"/>
 </a>
 
-<a href="https://github.com/FenixDevOps/ipl-ai-analytics-platform">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=FenixDevOps&repo=ipl-ai-analytics-platform&theme=tokyonight"/>
+<a href="https://github.com/FenixDevOps">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=FenixDevOps&repo=REPOSITORY_NAME&theme=tokyonight"/>
 </a>
 
-<a href="https://github.com/FenixDevOps/health-care-chatbot">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=FenixDevOps&repo=health-care-chatbot&theme=tokyonight"/>
+<a href="https://github.com/FenixDevOps">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=FenixDevOps&repo=REPOSITORY_NAME&theme=tokyonight"/>
 </a>
 
 </p>
+
+⚠ Replace **REPOSITORY_NAME** with your actual project repository names.
 
 ---
 
@@ -84,23 +86,15 @@
 
 ---
 
-# 📊 GitHub Metrics Dashboard
-
-<p align="center">
-<img src="https://metrics.lecoq.io/FenixDevOps?template=classic&config.timezone=Asia%2FCalcutta"/>
-</p>
-
----
-
 # 🏆 GitHub Achievements
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=FenixDevOps&theme=tokyonight"/>
+<img src="https://github-profile-trophy.vercel.app/?username=FenixDevOps&theme=tokyonight&row=1&column=6"/>
 </p>
 
 ---
 
-# 📈 3D Contribution Graph
+# 📊 GitHub Profile Summary
 
 <p align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FenixDevOps&theme=tokyonight"/>
@@ -123,7 +117,7 @@
 
 # 📫 Connect With Me
 
-📧 Email: [manigoud8885@gmail.com](mailto:manigoud8885@gmail.com)
+📧 Email: **[manigoud8885@gmail.com](mailto:manigoud8885@gmail.com)**
 
 💼 LinkedIn
 https://linkedin.com/in/bathini-manikanta
