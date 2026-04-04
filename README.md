@@ -104,11 +104,13 @@ I'm a Computer Science student passionate about leveraging Artificial Intelligen
 
 ---
 
+
+
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FenixDevOps&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FenixDevOps&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=BathiniManikanta&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BathiniManikanta&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
