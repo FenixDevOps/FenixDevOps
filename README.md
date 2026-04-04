@@ -94,7 +94,7 @@ I'm a Computer Science student passionate about leveraging Artificial Intelligen
 | 2 | [Smart AI Resume Analyzer](https://github.com/FenixDevOps/Smart_AI_Resume_Analyzer)                                             | Resume analyzer using NLP and ML to extract skills, match profiles, and rank resumes           | Python, NLP, Flask, Scikit-Learn        |
 | 3 | [Student Performance Prediction](https://github.com/FenixDevOps/Student_Performance_Prediction)                                 | Predicts student performance based on academic and behavioral factors                          | Python, Pandas, Scikit-Learn            |
 | 4 | [Play Sync](https://github.com/FenixDevOps/Play_Sync)                                                                           | Real-time synchronized media streaming platform across multiple devices                        | Node.js, React, Socket.io               |
-| 5 | [AI Desert Segmentation](#)                                                                                                     | Semantic segmentation model for off-road desert terrain analysis                               | PyTorch, Deep Learning, Computer Vision |
+| 5 | [AI Desert Segmentation](https://github.com/FenixDevOps/DesertVision-AI-Intelligent-Offroad-Semantic-Scene-Segmentation-System)                                                                                                     | Semantic segmentation model for off-road desert terrain analysis                               | PyTorch, Deep Learning, Computer Vision |
 
 <p align="center">
   <a href="https://github.com/FenixDevOps?tab=repositories">
@@ -194,15 +194,13 @@ I'm a Computer Science student passionate about leveraging Artificial Intelligen
 ## 🧩 Problem Solving Profiles
 
 <p align="center">
-  <a href="https://leetcode.com/yourusername">
+  <a href="https://leetcode.com/Mani_goud_8885">
     <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode&logoColor=white"/>
   </a>
-  <a href="https://www.hackerrank.com/yourusername">
+  <a href="https://www.hackerrank.com/manigoud8885">
     <img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
   </a>
-  <a href="https://www.codechef.com/users/yourusername">
-    <img src="https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
-  </a>
+  
 </p>
 
 ---
@@ -243,15 +241,7 @@ I'm actively interested in:
 * ✅ Active learner exploring advanced technologies
 * ✅ Passionate about solving real-world problems using AI
 
----
 
-## 🧠 Fun Fact
-
-```diff
-+ I enjoy turning complex problems into simple and practical AI solutions.
-```
-
----
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a2a6c,50:b21f1f,100:fdbb2d&height=120&section=footer&reversal=false" />
