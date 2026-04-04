@@ -94,7 +94,7 @@ I'm a Computer Science student passionate about leveraging Artificial Intelligen
 | 2 | [Smart AI Resume Analyzer](https://github.com/FenixDevOps/Smart_AI_Resume_Analyzer)                                             | Resume analyzer using NLP and ML to extract skills, match profiles, and rank resumes           | Python, NLP, Flask, Scikit-Learn        |
 | 3 | [Student Performance Prediction](https://github.com/FenixDevOps/Student_Performance_Prediction)                                 | Predicts student performance based on academic and behavioral factors                          | Python, Pandas, Scikit-Learn            |
 | 4 | [Play Sync](https://github.com/FenixDevOps/Play_Sync)                                                                           | Real-time synchronized media streaming platform across multiple devices                        | Node.js, React, Socket.io               |
-| 5 | [AI Desert Segmentation](#)                                                                                                     | Semantic segmentation model for off-road desert terrain analysis                               | PyTorch, Deep Learning, Computer Vision |
+| 5 | [AI Desert Segmentation]((https://github.com/FenixDevOps/DesertVision-AI-Intelligent-Offroad-Semantic-Scene-Segmentation-System))                                                                                                     | Semantic segmentation model for off-road desert terrain analysis                               | PyTorch, Deep Learning, Computer Vision |
 
 <p align="center">
   <a href="https://github.com/FenixDevOps?tab=repositories">
