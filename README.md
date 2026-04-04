@@ -1,155 +1,212 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a2a6c,50:b21f1f,100:fdbb2d&height=240&section=header&text=Manikanta%20%7C%20AI%20Engineer&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a2a6c,50:b21f1f,100:fdbb2d&height=240&section=header&text=Bathini%20Manikanta&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Manikanta</h1>
-
-<h3 align="center">AI & Machine Learning Engineer | Python Developer | Building Intelligent Systems</h3>
+<h1 align="center">🚀 AI & Machine Learning Engineer</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=00F7FF&center=true&vCenter=true&width=850&lines=AI+%26+Machine+Learning+Engineer;Python+Developer;Building+Intelligent+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=900&lines=Building+Intelligent+Systems;Python+%7C+Machine+Learning+%7C+Deep+Learning;Full+Stack+Development;AI+Enthusiast" />
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=FenixDevOps&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
   <img src="https://img.shields.io/github/followers/FenixDevOps?label=Followers&style=for-the-badge&color=blue"/>
-  <img src="https://img.shields.io/badge/Projects-4-brightgreen?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Projects-10+-brightgreen?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge"/>
 </p>
 
 ---
 
-# 🚀 About Me
+## 👨‍💻 About Me
 
-* 🎓 Computer Science student passionate about Artificial Intelligence and Machine Learning
-* 🤖 Building AI-powered applications, analytics systems, and intelligent models
-* 💻 Interested in Data Science, Computer Vision, Blockchain, and Full Stack Development
-* 🌱 Currently learning Deep Learning, MLOps, and Cloud Deployment
-* 📚 Improving communication skills, coding skills, and placement preparation
-* ⚡ Goal: Become a professional AI / Machine Learning Engineer and build impactful products
+I'm a **Computer Science student** passionate about leveraging **Artificial Intelligence** and **Machine Learning** to solve real-world problems. With hands-on experience in building intelligent systems, I combine technical expertise with creative problem-solving.
+
+- 🎓 **Computer Science Student** | Passionate about AI & ML
+- 🤖 **AI/ML Developer** | Building intelligent applications
+- 💻 **Full Stack Developer** | Python, JavaScript, React
+- 📊 **Data Science Enthusiast** | Analytics & Visualization
+- 🔗 **Blockchain Explorer** | Smart Contracts & Web3
+- 🚀 **Continuous Learner** | Deep Learning, MLOps, Cloud
+
+**Current Goal:** Build impactful AI solutions and become a professional AI/ML Engineer
 
 ---
 
-# 🧠 AI & Development Stack
+## 🛠️ Tech Stack & Skills
 
+### 🐍 Programming Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,react,nodejs,flask,git,github,docker,linux,vscode,mysql,mongodb,tensorflow,pytorch&perline=7"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
 
+### 🤖 AI & Machine Learning
 <p align="center">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit%20Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+</p>
+
+### 🎨 Web Development
+<p align="center">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
+</p>
+
+### 🗄️ Databases & Tools
+<p align="center">
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+</p>
+
+### 📚 Additional Tools
+<p align="center">
+  <img src="https://img.shields.io/badge/Jupyter-F37726?style=for-the-badge&logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 </p>
 
 ---
 
-# 🔥 Current Focus
+## 🎯 Featured Projects
 
-* Building AI and Machine Learning projects
-* Learning Deep Learning and Computer Vision
-* Exploring Blockchain-based applications
-* Improving Full Stack Development skills
-* Practicing Data Structures and Algorithms
-* Preparing for internships and placements
+| # | Project | Description | Tech Stack |
+|---|---------|-------------|-----------|
+| 1 | **[Blockchain Supply Chain](https://github.com/FenixDevOps/Blockchain-based-Supply-chain-Transparency-for-Agricultural-Procedure)** | Decentralized supply chain management with transparency & traceability for agricultural products | Blockchain, Python, Smart Contracts |
+| 2 | **[Smart AI Resume Analyzer](https://github.com/FenixDevOps/Smart_AI_Resume_Analyzer)** | Intelligent resume analyzer using NLP & ML to extract key information and score resumes | Python, NLP, Flask, Scikit-Learn |
+| 3 | **[Student Performance Prediction](https://github.com/FenixDevOps/Student_Performance_Prediction)** | ML model predicting student performance based on academic & behavioral factors | Python, Pandas, Scikit-Learn |
+| 4 | **[Play Sync](https://github.com/FenixDevOps/Play_Sync)** | Real-time synchronized media streaming platform across multiple devices | Node.js, React, Socket.io |
 
----
-
-# 🚀 Featured Projects
-
-| Project | Description | Tech Stack |
-|---------|-------------|-----------|
-| [Blockchain Supply Chain Transparency](https://github.com/FenixDevOps/Blockchain-based-Supply-chain-Transparency-for-Agricultural-Procedure) | Supply chain management system using blockchain for agricultural products | Blockchain, Python, Smart Contracts |
-| [Smart AI Resume Analyzer](https://github.com/FenixDevOps/Smart_AI_Resume_Analyzer) | AI-powered tool to analyze and score resumes using machine learning | Python, NLP, ML, Flask |
-| [Student Performance Prediction](https://github.com/FenixDevOps/Student_Performance_Prediction) | ML model to predict student performance based on various factors | Python, Pandas, Scikit-Learn |
-| [Play Sync](https://github.com/FenixDevOps/Play_Sync) | Synchronized media streaming platform | Node.js, React, Real-time Sync |
+**[→ View All Projects](https://github.com/FenixDevOps?tab=repositories)**
 
 ---
 
-# 📊 GitHub Statistics
-
-| Metric | Value |
-|--------|-------|
-| **Public Repositories** | 4+ |
-| **Total Projects** | 10+ |
-| **Primary Language** | Python |
-| **Current Focus** | AI & Machine Learning |
-
----
-
-# 💻 Tech Proficiency
-
-| Category | Technologies |
-|----------|--------------|
-| **Languages** | Python, JavaScript, Java, SQL |
-| **AI/ML** | TensorFlow, PyTorch, Scikit-Learn, Pandas, NumPy |
-| **Web Dev** | React, Node.js, Flask, Express.js |
-| **Databases** | MySQL, MongoDB, Firebase |
-| **DevOps** | Docker, Git, GitHub, Linux |
-| **Tools** | VS Code, Jupyter, Google Colab |
-
----
-
-# 🔥 GitHub Contribution Streak
+## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=FenixDevOps&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FenixDevOps&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
+  &nbsp;
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FenixDevOps&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 </p>
 
 ---
 
-# 📈 Coding Activity
+## 🔥 GitHub Contribution Streak
 
-Currently active in:
-- Machine Learning project development
-- AI algorithm implementation
-- Web application building
-- Open source contributions
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=FenixDevOps&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak"/>
+</p>
 
 ---
 
-# 🏆 Achievements
+## 📈 Contribution Activity
 
-- 🎯 Computer Science Student
-- 🤖 AI & ML Enthusiast
-- 💡 Innovation Focus
-- 🚀 Project Builder
-- 📚 Continuous Learner
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FenixDevOps&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph"/>
+</p>
 
 ---
 
-# 🌐 Connect With Me
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/FenixDevOps/FenixDevOps/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
+</p>
+
+---
+
+## 🎓 Current Learning & Focus
+
+- 🧠 **Advanced Deep Learning** - Transformers, LLMs, Neural Networks
+- ☁️ **Cloud & DevOps** - AWS, Docker, Kubernetes, CI/CD
+- 🚀 **MLOps** - Model deployment, monitoring, production systems
+- 📊 **Advanced Analytics** - Big Data, Real-time Processing
+- 🔐 **Blockchain** - Smart Contracts, DeFi, Web3 applications
+
+---
+
+## 💼 Experience Highlights
+
+| Area | Details |
+|------|---------|
+| **Projects** | 10+ AI/ML and full-stack projects from concept to deployment |
+| **Focus** | Intelligent systems, Data analysis, Full stack development |
+| **Approach** | Problem-solving, Clean code, Best practices |
+| **Collaboration** | Open source contributions, Team-based projects |
+| **Learning** | Self-taught, Continuous improvement, Latest tech trends |
+
+---
+
+## 🔥 Current Activities
+
+---
+
+## 📞 Let's Connect!
 
 <p align="center">
   <a href="mailto:manigoud8885@gmail.com">
-    <img src="https://img.shields.io/badge/Email-manigoud8885%40gmail.com-red?style=for-the-badge&logo=gmail"/>
+    <img src="https://img.shields.io/badge/📧%20Email-manigoud8885@gmail.com-FF4444?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   &nbsp;
   <a href="https://linkedin.com/in/bathini-manikanta">
-    <img src="https://img.shields.io/badge/LinkedIn-Bathini%20Manikanta-blue?style=for-the-badge&logo=linkedin"/>
+    <img src="https://img.shields.io/badge/💼%20LinkedIn-Bathini%20Manikanta-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   &nbsp;
   <a href="https://github.com/FenixDevOps">
-    <img src="https://img.shields.io/badge/GitHub-FenixDevOps-black?style=for-the-badge&logo=github"/>
+    <img src="https://img.shields.io/badge/🐙%20GitHub-FenixDevOps-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-# 🐍 Contribution Snake
+## 🤝 Collaboration & Opportunities
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/FenixDevOps/FenixDevOps/output/github-contribution-grid-snake-dark.svg" alt="snake gif"/>
-</p>
+I'm actively interested in:
+- 🤝 **Collaborating** on AI/ML projects
+- 💬 **Discussing** technology and innovation
+- 📚 **Sharing** knowledge and learning together
+- 🚀 **Building** impactful solutions
+- 💼 **Exploring** internship opportunities
+
+**Feel free to reach out!** Let's create something amazing together.
 
 ---
 
-# ✨ Quote
+## 📈 Quick Stats
+
+---
+
+## 🏆 Key Achievements
+
+- ✅ Built 10+ production-ready projects
+- ✅ Proficient in AI, ML, and Full Stack Development
+- ✅ Strong foundation in Data Science & Analytics
+- ✅ Active in open-source community
+- ✅ Continuous learner & problem solver
+
+---
 
 <p align="center">
-  <i>"Building intelligent systems that solve real-world problems through AI, Machine Learning, and innovation."</i>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a2a6c,50:b21f1f,100:fdbb2d&height=120&section=footer&reversal=false" />
 </p>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a2a6c,50:b21f1f,100:fdbb2d&height=120&section=footer"/>
+  <i>✨ "Code is poetry. Data is the canvas. Intelligence is the masterpiece." ✨</i>
+</p>
+
+<p align="center">
+  <sub>⭐ If you find my work interesting, please give it a star! It motivates me to create more amazing projects.</sub>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Made%20with%20❤️%20-FenixDevOps-FF1744?style=flat-square"/>
 </p>
