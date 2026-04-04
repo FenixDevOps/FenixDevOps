@@ -194,7 +194,7 @@ I'm a Computer Science student passionate about leveraging Artificial Intelligen
 ## 🧩 Problem Solving Profiles
 
 <p align="center">
-  <a href="https://leetcode.com/yourusername">
+  <a href="https://leetcode.com/Mani_goud_8885">
     <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode&logoColor=white"/>
   </a>
   <a href="https://www.hackerrank.com/yourusername">
