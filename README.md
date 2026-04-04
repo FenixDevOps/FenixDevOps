@@ -9,8 +9,8 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=BathiniManikanta&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-  <img src="https://img.shields.io/github/followers/BathiniManikanta?label=Followers&style=for-the-badge&color=blue"/>
+  <img src="https://komarev.com/ghpvc/?username=FenixDevOps&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+  <img src="https://img.shields.io/github/followers/FenixDevOps?label=Followers&style=for-the-badge&color=blue"/>
   <img src="https://img.shields.io/badge/Projects-10+-brightgreen?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge"/>
 </p>
@@ -88,16 +88,16 @@ I'm a Computer Science student passionate about leveraging Artificial Intelligen
 
 ## 🎯 Featured Projects
 
-| # | Project                                                                                                                              | Description                                                                                    | Tech Stack                              |
-| - | ------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------- | --------------------------------------- |
-| 1 | [Blockchain Supply Chain](https://github.com/BathiniManikanta/Blockchain-based-Supply-chain-Transparency-for-Agricultural-Procedure) | Decentralized supply chain system for agricultural products with transparency and traceability | Blockchain, Python, Smart Contracts     |
-| 2 | [Smart AI Resume Analyzer](https://github.com/BathiniManikanta/Smart_AI_Resume_Analyzer)                                             | Resume analyzer using NLP and ML to extract skills, match profiles, and rank resumes           | Python, NLP, Flask, Scikit-Learn        |
-| 3 | [Student Performance Prediction](https://github.com/BathiniManikanta/Student_Performance_Prediction)                                 | Predicts student performance based on academic and behavioral factors                          | Python, Pandas, Scikit-Learn            |
-| 4 | [Play Sync](https://github.com/BathiniManikanta/Play_Sync)                                                                           | Real-time synchronized media streaming platform across multiple devices                        | Node.js, React, Socket.io               |
-| 5 | [AI Desert Segmentation](#)                                                                                                          | Semantic segmentation model for off-road desert terrain analysis                               | PyTorch, Deep Learning, Computer Vision |
+| # | Project                                                                                                                         | Description                                                                                    | Tech Stack                              |
+| - | ------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- | --------------------------------------- |
+| 1 | [Blockchain Supply Chain](https://github.com/FenixDevOps/Blockchain-based-Supply-chain-Transparency-for-Agricultural-Procedure) | Decentralized supply chain system for agricultural products with transparency and traceability | Blockchain, Python, Smart Contracts     |
+| 2 | [Smart AI Resume Analyzer](https://github.com/FenixDevOps/Smart_AI_Resume_Analyzer)                                             | Resume analyzer using NLP and ML to extract skills, match profiles, and rank resumes           | Python, NLP, Flask, Scikit-Learn        |
+| 3 | [Student Performance Prediction](https://github.com/FenixDevOps/Student_Performance_Prediction)                                 | Predicts student performance based on academic and behavioral factors                          | Python, Pandas, Scikit-Learn            |
+| 4 | [Play Sync](https://github.com/FenixDevOps/Play_Sync)                                                                           | Real-time synchronized media streaming platform across multiple devices                        | Node.js, React, Socket.io               |
+| 5 | [AI Desert Segmentation](#)                                                                                                     | Semantic segmentation model for off-road desert terrain analysis                               | PyTorch, Deep Learning, Computer Vision |
 
 <p align="center">
-  <a href="https://github.com/BathiniManikanta?tab=repositories">
+  <a href="https://github.com/FenixDevOps?tab=repositories">
     <img src="https://img.shields.io/badge/View%20All%20Projects-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
@@ -107,8 +107,8 @@ I'm a Computer Science student passionate about leveraging Artificial Intelligen
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BathiniManikanta&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BathiniManikanta&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FenixDevOps&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FenixDevOps&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 </p>
 
 ---
@@ -116,7 +116,7 @@ I'm a Computer Science student passionate about leveraging Artificial Intelligen
 ## 🔥 GitHub Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=BathiniManikanta&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=FenixDevOps&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak"/>
 </p>
 
 ---
@@ -124,7 +124,7 @@ I'm a Computer Science student passionate about leveraging Artificial Intelligen
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BathiniManikanta&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FenixDevOps&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph"/>
 </p>
 
 ---
@@ -132,7 +132,7 @@ I'm a Computer Science student passionate about leveraging Artificial Intelligen
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/BathiniManikanta/BathiniManikanta/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
+  <img src="https://raw.githubusercontent.com/FenixDevOps/FenixDevOps/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
 </p>
 
 ---
@@ -194,13 +194,13 @@ I'm a Computer Science student passionate about leveraging Artificial Intelligen
 ## 🧩 Problem Solving Profiles
 
 <p align="center">
-  <a href="https://leetcode.com/BathiniManikanta">
+  <a href="https://leetcode.com/yourusername">
     <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode&logoColor=white"/>
   </a>
-  <a href="https://www.hackerrank.com/BathiniManikanta">
+  <a href="https://www.hackerrank.com/yourusername">
     <img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
   </a>
-  <a href="https">
+  <a href="https://www.codechef.com/users/yourusername">
     <img src="https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
   </a>
 </p>
@@ -216,8 +216,8 @@ I'm a Computer Science student passionate about leveraging Artificial Intelligen
   <a href="https://linkedin.com/in/bathini-manikanta">
     <img src="https://img.shields.io/badge/💼%20LinkedIn-Bathini%20Manikanta-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://github.com/BathiniManikanta">
-    <img src="https://img.shields.io/badge/🐙%20GitHub-BathiniManikanta-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <a href="https://github.com/FenixDevOps">
+    <img src="https://img.shields.io/badge/🐙%20GitHub-FenixDevOps-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
