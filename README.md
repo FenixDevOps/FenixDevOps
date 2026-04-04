@@ -32,7 +32,15 @@
 # 🧠 AI & Development Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,javascript,react,nodejs,flask,git,github,docker,linux,vscode,mysql,mongodb,pandas,numpy,matplotlib,tensorflow,opencv,pytorch&perline=9"/>
+  <img src="https://skillicons.dev/icons?i=python,js,react,nodejs,flask,git,github,docker,linux,vscode,mysql,mongodb,tensorflow,pytorch&perline=7"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
 </p>
 
 ---
@@ -51,15 +59,21 @@
 # 🚀 Featured Projects
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=FenixDevOps&repo=Blockchain-based-Supply-chain-Transparency-for-Agricultural-Procedure&theme=tokyonight&hide_border=true" />
-
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=FenixDevOps&repo=Smart_AI_Resume_Analyzer&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/FenixDevOps/Blockchain-based-Supply-chain-Transparency-for-Agricultural-Procedure">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=FenixDevOps&repo=Blockchain-based-Supply-chain-Transparency-for-Agricultural-Procedure&theme=tokyonight&hide_border=true&show_owner=true" />
+  </a>
+  <a href="https://github.com/FenixDevOps/Smart_AI_Resume_Analyzer">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=FenixDevOps&repo=Smart_AI_Resume_Analyzer&theme=tokyonight&hide_border=true&show_owner=true" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=FenixDevOps&repo=Student_Performance_Prediction&theme=tokyonight&hide_border=true" />
-
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=FenixDevOps&repo=Play_Sync&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/FenixDevOps/Student_Performance_Prediction">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=FenixDevOps&repo=Student_Performance_Prediction&theme=tokyonight&hide_border=true&show_owner=true" />
+  </a>
+  <a href="https://github.com/FenixDevOps/Play_Sync">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=FenixDevOps&repo=Play_Sync&theme=tokyonight&hide_border=true&show_owner=true" />
+  </a>
 </p>
 
 ---
@@ -67,8 +81,8 @@
 # 📊 GitHub Analytics Dashboard
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=FenixDevOps&show_icons=true&theme=tokyonight&hide_border=true"/>
-
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=FenixDevOps&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+  &nbsp;
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FenixDevOps&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
@@ -93,7 +107,7 @@
 # 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=FenixDevOps&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=FenixDevOps&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=10"/>
 </p>
 
 ---
@@ -106,7 +120,7 @@
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FenixDevOps&theme=tokyonight"/>
-
+  &nbsp;
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=FenixDevOps&theme=tokyonight"/>
 </p>
 
@@ -118,11 +132,11 @@
   <a href="mailto:manigoud8885@gmail.com">
     <img src="https://img.shields.io/badge/Email-manigoud8885%40gmail.com-red?style=for-the-badge&logo=gmail"/>
   </a>
-
+  &nbsp;
   <a href="https://linkedin.com/in/bathini-manikanta">
     <img src="https://img.shields.io/badge/LinkedIn-Bathini%20Manikanta-blue?style=for-the-badge&logo=linkedin"/>
   </a>
-
+  &nbsp;
   <a href="https://github.com/FenixDevOps">
     <img src="https://img.shields.io/badge/GitHub-FenixDevOps-black?style=for-the-badge&logo=github"/>
   </a>
@@ -132,9 +146,43 @@
 
 # 🐍 Contribution Snake
 
-<p align="center">
-  <img src="https://github.com/FenixDevOps/FenixDevOps/blob/output/github-contribution-grid-snake.svg" alt="snake gif"/>
-</p>
+> ⚙️ **Setup required:** Add the GitHub Actions workflow below to auto-generate your snake animation.
+> Create `.github/workflows/snake.yml` in your profile repo with the following content:
+
+```yaml
+name: Generate Snake Animation
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: FenixDevOps
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+> Once the workflow runs successfully, uncomment the line below:
+
+<!-- <p align="center">
+  <img src="https://github.com/FenixDevOps/FenixDevOps/blob/output/github-contribution-grid-snake-dark.svg" alt="snake gif"/>
+</p> -->
 
 ---
 
