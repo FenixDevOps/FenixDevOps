@@ -197,7 +197,7 @@ I'm a Computer Science student passionate about leveraging Artificial Intelligen
   <a href="https://leetcode.com/Mani_goud_8885">
     <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode&logoColor=white"/>
   </a>
-  <a href="https://www.hackerrank.com/yourusername">
+  <a href="https://www.hackerrank.com/manigoud8885">
     <img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
   </a>
   <a href="https://www.codechef.com/users/yourusername">
