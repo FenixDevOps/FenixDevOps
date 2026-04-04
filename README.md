@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a2a6c,50:b21f1f,100:fdbb2d&height=240&section=header&text=Manikanta%20%7C%20AI%20Engineer&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a2a6c,50:b21f1f,100:fdbb2d&height=240&section=header&text=Manikanta%20%7C%20AI%20Engineer&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Manikanta</h1>
@@ -7,13 +7,13 @@
 <h3 align="center">AI & Machine Learning Engineer | Python Developer | Building Intelligent Systems</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=00F7FF&center=true&vCenter=true&width=850&lines=AI+%26+Machine+Learning+Engineer;Python+Developer;Building+Intelligent+Systems;Data+Science+%7C+ML+%7C+AI+Engineering;Exploring+Computer+Vision+and+Blockchain;Full+Stack+Developer+with+AI+Focus"/>
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=00F7FF&center=true&vCenter=true&width=850&lines=AI+%26+Machine+Learning+Engineer;Python+Developer;Building+Intelligent+Systems" />
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=FenixDevOps&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
   <img src="https://img.shields.io/github/followers/FenixDevOps?label=Followers&style=for-the-badge&color=blue"/>
-  <img src="https://img.shields.io/github/stars/FenixDevOps?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=yellow"/>
+  <img src="https://img.shields.io/badge/Projects-4-brightgreen?style=for-the-badge"/>
 </p>
 
 ---
@@ -58,33 +58,36 @@
 
 # 🚀 Featured Projects
 
-<p align="center">
-  <a href="https://github.com/FenixDevOps/Blockchain-based-Supply-chain-Transparency-for-Agricultural-Procedure">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=FenixDevOps&repo=Blockchain-based-Supply-chain-Transparency-for-Agricultural-Procedure&theme=tokyonight&hide_border=true&show_owner=true" />
-  </a>
-  <a href="https://github.com/FenixDevOps/Smart_AI_Resume_Analyzer">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=FenixDevOps&repo=Smart_AI_Resume_Analyzer&theme=tokyonight&hide_border=true&show_owner=true" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/FenixDevOps/Student_Performance_Prediction">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=FenixDevOps&repo=Student_Performance_Prediction&theme=tokyonight&hide_border=true&show_owner=true" />
-  </a>
-  <a href="https://github.com/FenixDevOps/Play_Sync">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=FenixDevOps&repo=Play_Sync&theme=tokyonight&hide_border=true&show_owner=true" />
-  </a>
-</p>
+| Project | Description | Tech Stack |
+|---------|-------------|-----------|
+| [Blockchain Supply Chain Transparency](https://github.com/FenixDevOps/Blockchain-based-Supply-chain-Transparency-for-Agricultural-Procedure) | Supply chain management system using blockchain for agricultural products | Blockchain, Python, Smart Contracts |
+| [Smart AI Resume Analyzer](https://github.com/FenixDevOps/Smart_AI_Resume_Analyzer) | AI-powered tool to analyze and score resumes using machine learning | Python, NLP, ML, Flask |
+| [Student Performance Prediction](https://github.com/FenixDevOps/Student_Performance_Prediction) | ML model to predict student performance based on various factors | Python, Pandas, Scikit-Learn |
+| [Play Sync](https://github.com/FenixDevOps/Play_Sync) | Synchronized media streaming platform | Node.js, React, Real-time Sync |
 
 ---
 
-# 📊 GitHub Analytics Dashboard
+# 📊 GitHub Statistics
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=FenixDevOps&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-  &nbsp;
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FenixDevOps&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+| Metric | Value |
+|--------|-------|
+| **Public Repositories** | 4+ |
+| **Total Projects** | 10+ |
+| **Primary Language** | Python |
+| **Current Focus** | AI & Machine Learning |
+
+---
+
+# 💻 Tech Proficiency
+
+| Category | Technologies |
+|----------|--------------|
+| **Languages** | Python, JavaScript, Java, SQL |
+| **AI/ML** | TensorFlow, PyTorch, Scikit-Learn, Pandas, NumPy |
+| **Web Dev** | React, Node.js, Flask, Express.js |
+| **Databases** | MySQL, MongoDB, Firebase |
+| **DevOps** | Docker, Git, GitHub, Linux |
+| **Tools** | VS Code, Jupyter, Google Colab |
 
 ---
 
@@ -96,33 +99,23 @@
 
 ---
 
-# 📈 Coding Activity Graph
+# 📈 Coding Activity
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FenixDevOps&theme=tokyo-night&hide_border=true"/>
-</p>
-
----
-
-# 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=FenixDevOps&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=10"/>
-</p>
+Currently active in:
+- Machine Learning project development
+- AI algorithm implementation
+- Web application building
+- Open source contributions
 
 ---
 
-# 📊 Developer Metrics
+# 🏆 Achievements
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FenixDevOps&theme=tokyonight"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FenixDevOps&theme=tokyonight"/>
-  &nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=FenixDevOps&theme=tokyonight"/>
-</p>
+- 🎯 Computer Science Student
+- 🤖 AI & ML Enthusiast
+- 💡 Innovation Focus
+- 🚀 Project Builder
+- 📚 Continuous Learner
 
 ---
 
@@ -157,7 +150,6 @@
 <p align="center">
   <i>"Building intelligent systems that solve real-world problems through AI, Machine Learning, and innovation."</i>
 </p>
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a2a6c,50:b21f1f,100:fdbb2d&height=120&section=footer"/>
 </p>
