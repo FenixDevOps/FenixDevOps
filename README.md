@@ -63,31 +63,35 @@ I'm a final-year **B.Tech Computer Science and Engineering student** with an int
 
 ## 🚀 Featured Projects
 
+<div align="center">
+  <p><b>Selected projects showcasing software engineering, backend development, AI/ML, and full-stack problem solving.</b></p>
+</div>
+
 <table>
   <tr>
     <td width="50%" valign="top">
       <h3>🔍 ContractIQ</h3>
-      <strong>API Testing & Reliability Platform</strong><br/>
+      <b>AI-Powered API Testing & Reliability Platform</b><br/>
       <sub>Python · FastAPI · React · OpenAPI · Pytest</sub>
-      <p>A local-first platform for API contract testing and reliability workflows.</p>
+      <p>A platform for API contract testing and reliability workflows.</p>
       <ul>
-        <li>Imports and manages OpenAPI specifications and versions.</li>
-        <li>Generates contract-driven tests and validates API responses.</li>
+        <li>Imports and manages OpenAPI specifications.</li>
+        <li>Generates contract-driven tests and validates responses.</li>
         <li>Detects potentially breaking specification changes.</li>
-        <li>Supports scheduled monitoring, stored results, and alerts.</li>
+        <li>Supports API health monitoring and test history.</li>
       </ul>
-      <a href="https://github.com/FenixDevOps/ContractIQ-AI-Powered-API-Testing-Reliability-Platform"><b>View source →</b></a>
+      <a href="https://github.com/FenixDevOps/ContractIQ-AI-Powered-API-Testing-Reliability-Platform"><b>View project →</b></a>
     </td>
     <td width="50%" valign="top">
-      <h3>🏦 Loan Approval AI</h3>
-      <strong>Credit Prediction & Portfolio Analytics</strong><br/>
+      <h3>🏦 Loan Approval Prediction</h3>
+      <b>ML-Based Credit Risk Prediction & Explainability</b><br/>
       <sub>Python · FastAPI · React · Scikit-learn · SHAP</sub>
-      <p>A full-stack credit-risk prediction prototype with explainability and financial analytics.</p>
+      <p>A full-stack loan prediction prototype with explainable machine-learning results.</p>
       <ul>
-        <li>Predicts loan outcomes from applicant information.</li>
+        <li>Predicts loan approval outcomes from applicant details.</li>
+        <li>Uses a machine-learning pipeline for preprocessing and prediction.</li>
         <li>Uses SHAP to explain influential prediction factors.</li>
-        <li>Includes what-if analysis, EMI tools, and dashboards.</li>
-        <li>Connects a React frontend to a FastAPI backend.</li>
+        <li>Includes financial insights and interactive dashboards.</li>
       </ul>
       <a href="https://loanapprovalprediction-1-sh9t.onrender.com/"><b>Live demo →</b></a> ·
       <a href="https://github.com/FenixDevOps/Loan_Approval_Prediction"><b>Source →</b></a>
@@ -96,39 +100,61 @@ I'm a final-year **B.Tech Computer Science and Engineering student** with an int
   <tr>
     <td width="50%" valign="top">
       <h3>🌵 DesertVision AI</h3>
-      <strong>Off-Road Semantic Segmentation</strong><br/>
-      <sub>PyTorch · DINOv2 · Flask · React</sub>
-      <p>A computer-vision application that segments off-road scenes into terrain categories.</p>
+      <b>Off-Road Semantic Segmentation</b><br/>
+      <sub>Python · PyTorch · DINOv2 · Computer Vision</sub>
+      <p>A computer-vision project that segments off-road scenes into terrain categories.</p>
       <ul>
         <li>Uses a DINOv2 vision-transformer backbone.</li>
-        <li>Classifies 10 terrain categories at pixel level.</li>
-        <li>Displays segmentation masks and class-distribution insights.</li>
+        <li>Recognizes 10 terrain categories at pixel level.</li>
+        <li>Displays segmentation masks and class insights.</li>
       </ul>
       <a href="https://huggingface.co/spaces/mangoud/DesertVision-AI-App"><b>Live demo →</b></a> ·
       <a href="https://github.com/FenixDevOps/DesertVision-AI"><b>Source →</b></a>
     </td>
     <td width="50%" valign="top">
       <h3>🌾 AgriChain</h3>
-      <strong>Agricultural Supply-Chain Traceability</strong><br/>
-      <sub>React · Node.js · Express · MongoDB · Blockchain</sub>
-      <p>A full-stack concept focused on transparency and traceability across agricultural supply chains.</p>
+      <b>Blockchain-Based Agricultural Supply-Chain Traceability</b><br/>
+      <sub>React · Node.js · Express · MongoDB · QR Code</sub>
+      <p>A full-stack application concept for improving transparency in agricultural supply chains.</p>
       <ul>
-        <li>Tracks produce through supply-chain stages.</li>
-        <li>Uses QR-based product lookup and traceability workflows.</li>
-        <li>Combines a web interface with backend and database services.</li>
+        <li>Tracks produce across supply-chain stages.</li>
+        <li>Provides QR-based product lookup and traceability.</li>
+        <li>Connects a React frontend with backend and database services.</li>
       </ul>
-      <a href="https://github.com/FenixDevOps/Blockchain-based-Supply-chain-Transparency-for-Agricultural-Procedure"><b>View source →</b></a>
+      <a href="https://blockchain-based-supply-chain-trans.vercel.app/"><b>Live dashboard →</b></a> ·
+      <a href="https://github.com/FenixDevOps/Blockchain-based-Supply-chain-Transparency-for-Agricultural-Procedure"><b>Source →</b></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📄 AI Resume Analyzer</h3>
+      <b>AI-Powered Resume Analysis & ATS Scoring</b><br/>
+      <sub>Python · FastAPI · React · NLP · Gemini AI · Scikit-learn</sub>
+      <p>An AI-assisted resume platform for evaluating ATS compatibility and improving job readiness.</p>
+      <ul>
+        <li>Extracts skills, education, and experience from resumes.</li>
+        <li>Provides ATS scoring and skill-gap insights.</li>
+        <li>Generates AI-driven improvement recommendations.</li>
+        <li>Includes resume-building and job-search features.</li>
+      </ul>
+      <a href="https://ai-resume-analyzer-v43d.onrender.com/"><b>Live demo →</b></a> ·
+      <a href="https://github.com/FenixDevOps/AI-RESUME-ANALYZER"><b>Source →</b></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🤖 AI Project Reviewer & Interview Coach</h3>
+      <b>AI-Powered Project Analysis & Interview Preparation</b><br/>
+      <sub>Python · FastAPI · React · PostgreSQL · Redis · AI</sub>
+      <p>A platform concept to help developers review projects, assess code quality, and prepare for technical interviews.</p>
+      <ul>
+        <li>Analyzes GitHub repositories and project architecture.</li>
+        <li>Provides AI-assisted code and project review.</li>
+        <li>Supports mock interviews and personalized questions.</li>
+        <li>Creates learning roadmaps and progress insights.</li>
+      </ul>
+      <a href="https://github.com/FenixDevOps/Ai-project-reviewer-and-interview-coach"><b>View project →</b></a>
     </td>
   </tr>
 </table>
-
-<div align="center">
-  <h3>📄 AI Resume Analyzer</h3>
-  <sub>Python · Flask · NLP · Machine Learning</sub>
-  <p>A resume-analysis application designed to extract skills and compare candidate profiles with job requirements.</p>
-  <a href="https://ai-resume-analyzer-v43d.onrender.com/"><b>Live demo</b></a> ·
-  <a href="https://github.com/FenixDevOps/Smart_AI_Resume_Analyzer"><b>Source code</b></a>
-</div>
 
 ---
 
