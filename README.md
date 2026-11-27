@@ -46,7 +46,18 @@ I'm a final-year **B.Tech Computer Science and Engineering student** with an int
 
 </div>
 
-**Core CS:** Data Structures & Algorithms · OOP · DBMS · Operating Systems · Computer Networks · REST APIs
+<div align="center">
+
+**Core Computer Science**
+
+<img src="https://img.shields.io/badge/Data_Structures_%26_Algorithms-Problem_Solving-2563EB?style=for-the-badge&logo=leetcode&logoColor=white" alt="Data Structures and Algorithms" />
+<img src="https://img.shields.io/badge/OOP-Object_Oriented_Programming-7C3AED?style=for-the-badge&logo=java&logoColor=white" alt="Object Oriented Programming" />
+<img src="https://img.shields.io/badge/DBMS-Database_Management-0F766E?style=for-the-badge&logo=postgresql&logoColor=white" alt="DBMS" />
+<img src="https://img.shields.io/badge/Operating_Systems-OS-475569?style=for-the-badge&logo=linux&logoColor=white" alt="Operating Systems" />
+<img src="https://img.shields.io/badge/Computer_Networks-Networking-0891B2?style=for-the-badge&logo=cisco&logoColor=white" alt="Computer Networks" />
+<img src="https://img.shields.io/badge/REST_APIs-API_Development-16A34A?style=for-the-badge&logo=postman&logoColor=white" alt="REST APIs" />
+
+</div>
 
 ---
 
