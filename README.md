@@ -1,254 +1,132 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:4F46E5,100:06B6D4&text=Bathini%20Manikanta&fontColor=ffffff&fontSize=48&animation=fadeIn" />
-</p>
+<div align="center">
 
-<h2 align="center">Aspiring Software Engineer | Full-Stack Developer | AI/ML Enthusiast</h2>
+# Bathini Manikanta
 
-<p align="center">
-  <a href="mailto:manigoud8885@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/bathini-manikanta">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/FenixDevOps">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+### Software Engineer | Backend Development | AI/ML
+
+Building practical software products with Python, Java, modern web technologies, and applied machine learning.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/bathini-manikanta)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manigoud8885@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-FenixDevOps-181717?style=for-the-badge&logo=github)](https://github.com/FenixDevOps)
+
+</div>
 
 ---
 
-## 👨‍💻 About Me
+## About
 
-I'm **Bathini Manikanta**, a Computer Science student passionate about building reliable software, full-stack applications, backend systems, and AI-powered solutions.
+I'm a final-year **B.Tech Computer Science and Engineering student** interested in software engineering, backend systems, and applied AI. I enjoy taking ideas from problem definition to working applications—designing APIs, integrating databases, building user interfaces, and experimenting with machine-learning models.
 
-* 🎓 **B.Tech in Computer Science & Engineering**
-* 💻 **Aspiring Software Engineer | Full-Stack Developer**
-* 🐍 **Python | Java | C | SQL | JavaScript**
-* 🌐 **React | Node.js | Express.js | Flask**
-* 🤖 **Machine Learning | NLP | AI**
-* 🧠 **DSA | OOP | DBMS | Operating Systems | Computer Networks**
-* 🚀 Interested in **Software Engineering, Backend Development, Full-Stack Development, and AI/ML**
-* 🔨 Focused on building practical projects and continuously improving problem-solving skills
+- 🎓 B.Tech, Computer Science & Engineering — Malla Reddy Engineering College
+- 💻 Interested in Software Engineer, Backend Developer, and Full-Stack Developer opportunities
+- 🧠 Practising Data Structures & Algorithms and strengthening core CS fundamentals
+- 🤖 Exploring machine learning, computer vision, NLP, and AI-assisted developer tools
+- 🌱 Focused on writing maintainable code and building useful, well-documented projects
 
----
+## Technical Skills
 
-## 🛠️ Technical Skills
+| Area | Technologies |
+|---|---|
+| Languages | Python, Java, C, C++, JavaScript, SQL |
+| Frontend | HTML, CSS, React, Vite |
+| Backend & APIs | FastAPI, Flask, Node.js, Express.js, REST APIs |
+| Databases | PostgreSQL, MySQL, MongoDB, SQLite |
+| AI & Data | Scikit-learn, PyTorch, Pandas, NumPy, SHAP, NLP |
+| Tools | Git, GitHub, Postman, VS Code |
+| CS Fundamentals | Data Structures & Algorithms, OOP, DBMS, Operating Systems, Computer Networks |
 
-### 💻 Programming Languages
+## Featured Projects
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-</p>
+### 1. ContractIQ — API Testing & Reliability Platform
+**Python · FastAPI · React · PostgreSQL/SQLite · Pytest**
 
-### 🌐 Frontend Development
+A local-first platform for API contract testing and reliability workflows.
 
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-</p>
+- Imports and manages OpenAPI specifications and versions.
+- Generates contract-driven API tests and validates responses.
+- Detects potentially breaking API specification changes.
+- Supports scheduled API health monitoring, persisted results, and alerting.
 
-### ⚙️ Backend Development
+[View repository](https://github.com/FenixDevOps/ContractIQ-AI-Powered-API-Testing-Reliability-Platform)
 
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-</p>
+### 2. Loan Approval & Portfolio Analytics
+**Python · FastAPI · React · Scikit-learn · SHAP · PostgreSQL**
 
-### 🗄️ Databases
+A full-stack credit-risk prediction prototype with explainability and financial analytics.
 
-<p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-</p>
+- Predicts loan approval outcomes from applicant information.
+- Uses a machine-learning pipeline and SHAP explanations to show influential factors.
+- Includes what-if analysis, EMI calculations, and portfolio dashboards.
+- Connects a React frontend to a FastAPI backend.
 
-### 🤖 AI & Machine Learning
+[Live application](https://loanapprovalprediction-1-sh9t.onrender.com/) · [Source code](https://github.com/FenixDevOps/Loan_Approval_Prediction)
 
-<p>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/NLP-412991?style=for-the-badge&logo=ai&logoColor=white" />
-</p>
+### 3. DesertVision AI — Off-Road Semantic Segmentation
+**Python · PyTorch · DINOv2 · Flask · React**
 
-### 🧠 Core Computer Science
+A computer-vision application that segments off-road scenes into terrain classes.
 
-**Data Structures & Algorithms • Object-Oriented Programming • DBMS • Operating Systems • Computer Networks**
+- Uses a DINOv2 vision-transformer backbone with a custom segmentation head.
+- Identifies 10 terrain categories at pixel level.
+- Presents segmentation masks and class-distribution insights in a web dashboard.
 
-### 🔧 Tools & Platforms
+[Live demo](https://huggingface.co/spaces/mangoud/DesertVision-AI-App) · [Source code](https://github.com/FenixDevOps/DesertVision-AI)
 
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-</p>
+### 4. AgriChain — Agricultural Supply-Chain Traceability
+**JavaScript · React · Node.js · Express · MongoDB · Blockchain**
 
----
+A full-stack concept for improving transparency and traceability in agricultural supply chains.
 
-## 🚀 Featured Projects
+- Supports tracking produce through supply-chain stages.
+- Uses QR-based product lookup and traceability workflows.
+- Combines a web interface with backend services and database storage.
 
-### 🤖 AI Resume Analyzer
+[Source code](https://github.com/FenixDevOps/Blockchain-based-Supply-chain-Transparency-for-Agricultural-Procedure)
 
-**Python • Flask • NLP • Machine Learning**
+### 5. AI Resume Analyzer
+**Python · Flask · NLP · Scikit-learn**
 
-An AI-powered resume analysis and job-matching platform designed to evaluate resumes against job requirements.
+A resume-analysis application designed to extract skills and compare candidate profiles with job requirements.
 
-* 🔍 Extracts relevant skills and information from resumes
-* 🎯 Matches candidate skills with job requirements
-* 📊 Provides resume insights and analysis
-* ⚙️ Built with Python, Flask and NLP techniques
+- Extracts relevant resume information and skills.
+- Provides job-role matching and resume improvement insights.
 
-🔗 **[Live Demo](https://ai-resume-analyzer-v43d.onrender.com/)**
+[Live demo](https://ai-resume-analyzer-v43d.onrender.com/) · [Source code](https://github.com/FenixDevOps/Smart_AI_Resume_Analyzer)
 
----
+## Problem Solving
 
-### 📊 Student Performance Prediction
+I regularly practise coding problems to improve algorithmic thinking, implementation skills, and interview readiness.
 
-**Python • Scikit-learn • Flask • SQL**
+- Topics: Arrays, Strings, Hashing, Two Pointers, Searching, Sorting, Linked Lists, and SQL.
+- LeetCode: [Mani_goud_8885](https://leetcode.com/Mani_goud_8885)
+- HackerRank: [manigoud8885](https://www.hackerrank.com/manigoud8885)
 
-A machine-learning application that predicts student performance based on academic and related input features.
+## Certifications
 
-* 🧹 Data preprocessing and feature engineering
-* 🤖 Machine-learning based prediction
-* 🌐 Flask-based web application
-* 📈 Designed for practical academic performance analysis
+- Microsoft Azure AI Fundamentals
+- NPTEL — C Programming
+- Infosys Springboard — Prompt Engineering
+- freeCodeCamp — Responsive Web Design
+- GeeksforGeeks — Python / AI learning credentials
 
-🔗 **[Live Demo](https://student-performance-prediction-liard.vercel.app/)**
+## Current Focus
 
----
+- Strengthening DSA and problem-solving with Python and Java.
+- Improving backend engineering, REST API design, and SQL.
+- Building and testing full-stack applications.
+- Learning practical AI/ML engineering and deployment practices.
 
-### 🎵 PlaySync
+## Connect
 
-**React • Node.js • Socket.io**
+I'm open to **entry-level Software Engineer, Backend Developer, Full-Stack Developer, and AI/ML opportunities**, as well as meaningful collaborations on software projects.
 
-A real-time full-stack application focused on synchronized media experiences across multiple users/devices.
+- LinkedIn: [bathini-manikanta](https://linkedin.com/in/bathini-manikanta)
+- Email: [manigoud8885@gmail.com](mailto:manigoud8885@gmail.com)
+- GitHub: [FenixDevOps](https://github.com/FenixDevOps)
 
-* ⚡ Real-time communication using Socket.io
-* 🔄 Multi-user synchronization
-* 🌐 React-based frontend
-* ⚙️ Node.js backend
+<div align="center">
 
----
+*Build with purpose. Learn continuously. Improve through practice.*
 
-### ⛓️ AgriChain
-
-**React • Node.js • Express.js • MongoDB • Blockchain**
-
-A blockchain-based supply-chain traceability platform designed to improve transparency throughout the agricultural supply chain.
-
-* 🔗 Blockchain-based traceability
-* 📦 Supply-chain tracking
-* 🌐 Full-stack web application
-* 🗄️ MongoDB-based data management
-
----
-
-### 📝 Copy Catcher
-
-**Python • NLP • Cosine Similarity**
-
-An NLP-based plagiarism detection application that compares text documents and identifies similarity.
-
-* 🔍 Text preprocessing
-* 🧠 NLP-based similarity analysis
-* 📊 Cosine similarity comparison
-* ⚡ Real-time plagiarism detection
-
----
-
-## 🧠 Problem Solving
-
-I actively practice programming and computer-science fundamentals with a focus on:
-
-* Data Structures & Algorithms
-* Arrays & Strings
-* Linked Lists
-* Hashing
-* Two Pointers
-* Searching & Sorting
-* Recursion
-* SQL & Database Queries
-* Object-Oriented Programming
-
-### 💻 Coding Profiles
-
-<p>
-  <a href="https://leetcode.com/Mani_goud_8885">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
-  <a href="https://www.hackerrank.com/manigoud8885">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
-  </a>
-</p>
-
----
-
-## 📜 Certifications
-
-* 🏅 Microsoft Azure AI Fundamentals
-* 🏅 HackerRank SQL
-* 🏅 NPTEL C Programming
-* 🏅 Infosys Springboard – Prompt Engineering
-* 🏅 GeeksforGeeks – Machine Learning
-* 🏅 GeeksforGeeks – Generative AI
-* 🏅 freeCodeCamp – Responsive Web Design
-
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=FenixDevOps&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FenixDevOps&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FenixDevOps&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🌱 Currently Focused On
-
-* 💻 Strengthening software engineering fundamentals
-* 🧠 Improving Data Structures & Algorithms
-* 🗄️ Advanced SQL and database concepts
-* 🌐 Building full-stack and backend applications
-* 🤖 Exploring practical AI/ML applications
-* 🚀 Developing production-oriented projects
-
----
-
-## 🤝 Let's Connect
-
-<p align="center">
-  <a href="mailto:manigoud8885@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/bathini-manikanta">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/FenixDevOps">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  <i>Building. Learning. Solving. Improving.</i>
-</p>
-
-<p align="center">
-  ⭐ Thanks for visiting my profile!
-</p>
+</div>
